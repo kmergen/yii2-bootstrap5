@@ -1,0 +1,15 @@
+{
+    "name": "kmergen/yii2-bootstrap5",
+    "description": "Widgets for Bootstrap 5 components",
+    "keywords": ["yii2", "bootstrap", "bootstrap5"],
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.14"
+    },
+    "autoload": {
+        "psr-4": {
+            "kmergen\\bootstrap5\\": "src"
+        }
+    }
+}
